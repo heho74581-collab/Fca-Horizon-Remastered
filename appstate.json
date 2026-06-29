@@ -1,0 +1,83 @@
+[
+  {
+    "key": "m_pixel_ratio",
+    "value": "2.5",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2026-06-29T18:32:09.759Z",
+    "lastAccessed": "2026-06-29T18:32:09.759Z"
+  },
+  {
+    "key": "c_user",
+    "value": "61591553908470",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2026-06-29T18:32:09.759Z",
+    "lastAccessed": "2026-06-29T18:32:09.760Z"
+  },
+  {
+    "key": "locale",
+    "value": "vi_VN",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2026-06-29T18:32:09.760Z",
+    "lastAccessed": "2026-06-29T18:32:09.760Z"
+  },
+  {
+    "key": "dpr",
+    "value": "2.748617172241211",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2026-06-29T18:32:09.760Z",
+    "lastAccessed": "2026-06-29T18:32:09.760Z"
+  },
+  {
+    "key": "presence",
+    "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1782757455034%2C%22v%22%3A1%7D",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2026-06-29T18:32:09.760Z",
+    "lastAccessed": "2026-06-29T18:32:09.760Z"
+  },
+  {
+    "key": "wd",
+    "value": "327x652",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2026-06-29T18:32:09.760Z",
+    "lastAccessed": "2026-06-29T18:32:09.760Z"
+  },
+  {
+    "key": "fbl_st",
+    "value": "101729643%3BT%3A29712630",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2026-06-29T18:32:09.760Z",
+    "lastAccessed": "2026-06-29T18:32:09.760Z"
+  },
+  {
+    "key": "wl_cbv",
+    "value": "v2%3Bclient_version%3A3198%3Btimestamp%3A1782757859",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2026-06-29T18:32:09.760Z",
+    "lastAccessed": "2026-06-29T18:32:09.760Z"
+  },
+  {
+    "key": "vpd",
+    "value": "v1%3B717x360x2.5",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2026-06-29T18:32:09.760Z",
+    "lastAccessed": "2026-06-29T18:32:09.760Z"
+  }
+]
