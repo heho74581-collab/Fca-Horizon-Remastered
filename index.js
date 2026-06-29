@@ -1,3 +1,8 @@
+const express = require('express');
+const app = express();
+const port = process.env.PORT || 3000;
+app.get('/', (req, res) => res.send('Bot đang chạy ngầm mượt mà!'));
+app.listen(port, () => console.log(`Cổng ảo đang mở tại port ${port}`));
 'use strict';
 /* eslint-disable linebreak-style */
 const utils = require('./utils');
